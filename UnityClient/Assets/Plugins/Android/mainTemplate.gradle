@@ -84,3 +84,8 @@ android {
         }
     }
 }**SPLITS_VERSION_CODE****REPOSITORIES****SOURCE_BUILD_SETUP**
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+}
