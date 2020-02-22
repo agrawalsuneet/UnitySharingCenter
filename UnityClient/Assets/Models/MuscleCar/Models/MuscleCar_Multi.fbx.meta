@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: cd34685ee04848e4b83c31eab29c5a1d
+timeCreated: 1507650292
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: MuscleCar_LOD0_Multi_BlinkersLeft
+    100002: MuscleCar_LOD0_Multi_BlinkersRight
+    100004: MuscleCar_LOD0_Multi_BrakeLights
+    100006: MuscleCar_LOD0_Multi_Chassis
+    100008: MuscleCar_LOD0_Multi_Headlights
+    100010: MuscleCar_LOD0_Multi_LightCovers
+    100012: MuscleCar_LOD0_Multi_ReverseLights
+    100014: MuscleCar_LOD0_Multi_Wheel
+    100016: MuscleCar_LOD1_Multi_BlinkersLeft
+    100018: MuscleCar_LOD1_Multi_BlinkersRight
+    100020: MuscleCar_LOD1_Multi_BrakeLights
+    100022: MuscleCar_LOD1_Multi_Chassis
+    100024: MuscleCar_LOD1_Multi_Headlights
+    100026: MuscleCar_LOD1_Multi_LightCovers
+    100028: MuscleCar_LOD1_Multi_ReverseLights
+    100030: MuscleCar_LOD1_Multi_Wheel
+    100032: MuscleCar_LOD2_Multi_BlinkersLeft
+    100034: MuscleCar_LOD2_Multi_BlinkersRight
+    100036: MuscleCar_LOD2_Multi_BrakeLights
+    100038: MuscleCar_LOD2_Multi_Chassis
+    100040: MuscleCar_LOD2_Multi_Headlights
+    100042: MuscleCar_LOD2_Multi_LightCovers
+    100044: MuscleCar_LOD2_Multi_ReverseLights
+    100046: MuscleCar_LOD2_Multi_Wheel
+    100048: MuscleCar_LOD3_Multi_BlinkersLeft
+    100050: MuscleCar_LOD3_Multi_BlinkersRight
+    100052: MuscleCar_LOD3_Multi_BrakeLights
+    100054: MuscleCar_LOD3_Multi_Chassis
+    100056: MuscleCar_LOD3_Multi_Headlights
+    100058: MuscleCar_LOD3_Multi_LightCovers
+    100060: MuscleCar_LOD3_Multi_ReverseLights
+    100062: MuscleCar_LOD3_Multi_Wheel
+    100064: //RootNode
+    400000: MuscleCar_LOD0_Multi_BlinkersLeft
+    400002: MuscleCar_LOD0_Multi_BlinkersRight
+    400004: MuscleCar_LOD0_Multi_BrakeLights
+    400006: MuscleCar_LOD0_Multi_Chassis
+    400008: MuscleCar_LOD0_Multi_Headlights
+    400010: MuscleCar_LOD0_Multi_LightCovers
+    400012: MuscleCar_LOD0_Multi_ReverseLights
+    400014: MuscleCar_LOD0_Multi_Wheel
+    400016: MuscleCar_LOD1_Multi_BlinkersLeft
+    400018: MuscleCar_LOD1_Multi_BlinkersRight
+    400020: MuscleCar_LOD1_Multi_BrakeLights
+    400022: MuscleCar_LOD1_Multi_Chassis
+    400024: MuscleCar_LOD1_Multi_Headlights
+    400026: MuscleCar_LOD1_Multi_LightCovers
+    400028: MuscleCar_LOD1_Multi_ReverseLights
+    400030: MuscleCar_LOD1_Multi_Wheel
+    400032: MuscleCar_LOD2_Multi_BlinkersLeft
+    400034: MuscleCar_LOD2_Multi_BlinkersRight
+    400036: MuscleCar_LOD2_Multi_BrakeLights
+    400038: MuscleCar_LOD2_Multi_Chassis
+    400040: MuscleCar_LOD2_Multi_Headlights
+    400042: MuscleCar_LOD2_Multi_LightCovers
+    400044: MuscleCar_LOD2_Multi_ReverseLights
+    400046: MuscleCar_LOD2_Multi_Wheel
+    400048: MuscleCar_LOD3_Multi_BlinkersLeft
+    400050: MuscleCar_LOD3_Multi_BlinkersRight
+    400052: MuscleCar_LOD3_Multi_BrakeLights
+    400054: MuscleCar_LOD3_Multi_Chassis
+    400056: MuscleCar_LOD3_Multi_Headlights
+    400058: MuscleCar_LOD3_Multi_LightCovers
+    400060: MuscleCar_LOD3_Multi_ReverseLights
+    400062: MuscleCar_LOD3_Multi_Wheel
+    400064: //RootNode
+    2300000: MuscleCar_LOD0_Multi_BlinkersLeft
+    2300002: MuscleCar_LOD0_Multi_BlinkersRight
+    2300004: MuscleCar_LOD0_Multi_BrakeLights
+    2300006: MuscleCar_LOD0_Multi_Chassis
+    2300008: MuscleCar_LOD0_Multi_Headlights
+    2300010: MuscleCar_LOD0_Multi_LightCovers
+    2300012: MuscleCar_LOD0_Multi_ReverseLights
+    2300014: MuscleCar_LOD0_Multi_Wheel
+    2300016: MuscleCar_LOD1_Multi_BlinkersLeft
+    2300018: MuscleCar_LOD1_Multi_BlinkersRight
+    2300020: MuscleCar_LOD1_Multi_BrakeLights
+    2300022: MuscleCar_LOD1_Multi_Chassis
+    2300024: MuscleCar_LOD1_Multi_Headlights
+    2300026: MuscleCar_LOD1_Multi_LightCovers
+    2300028: MuscleCar_LOD1_Multi_ReverseLights
+    2300030: MuscleCar_LOD1_Multi_Wheel
+    2300032: MuscleCar_LOD2_Multi_BlinkersLeft
+    2300034: MuscleCar_LOD2_Multi_BlinkersRight
+    2300036: MuscleCar_LOD2_Multi_BrakeLights
+    2300038: MuscleCar_LOD2_Multi_Chassis
+    2300040: MuscleCar_LOD2_Multi_Headlights
+    2300042: MuscleCar_LOD2_Multi_LightCovers
+    2300044: MuscleCar_LOD2_Multi_ReverseLights
+    2300046: MuscleCar_LOD2_Multi_Wheel
+    2300048: MuscleCar_LOD3_Multi_BlinkersLeft
+    2300050: MuscleCar_LOD3_Multi_BlinkersRight
+    2300052: MuscleCar_LOD3_Multi_BrakeLights
+    2300054: MuscleCar_LOD3_Multi_Chassis
+    2300056: MuscleCar_LOD3_Multi_Headlights
+    2300058: MuscleCar_LOD3_Multi_LightCovers
+    2300060: MuscleCar_LOD3_Multi_ReverseLights
+    2300062: MuscleCar_LOD3_Multi_Wheel
+    3300000: MuscleCar_LOD0_Multi_BlinkersLeft
+    3300002: MuscleCar_LOD0_Multi_BlinkersRight
+    3300004: MuscleCar_LOD0_Multi_BrakeLights
+    3300006: MuscleCar_LOD0_Multi_Chassis
+    3300008: MuscleCar_LOD0_Multi_Headlights
+    3300010: MuscleCar_LOD0_Multi_LightCovers
+    3300012: MuscleCar_LOD0_Multi_ReverseLights
+    3300014: MuscleCar_LOD0_Multi_Wheel
+    3300016: MuscleCar_LOD1_Multi_BlinkersLeft
+    3300018: MuscleCar_LOD1_Multi_BlinkersRight
+    3300020: MuscleCar_LOD1_Multi_BrakeLights
+    3300022: MuscleCar_LOD1_Multi_Chassis
+    3300024: MuscleCar_LOD1_Multi_Headlights
+    3300026: MuscleCar_LOD1_Multi_LightCovers
+    3300028: MuscleCar_LOD1_Multi_ReverseLights
+    3300030: MuscleCar_LOD1_Multi_Wheel
+    3300032: MuscleCar_LOD2_Multi_BlinkersLeft
+    3300034: MuscleCar_LOD2_Multi_BlinkersRight
+    3300036: MuscleCar_LOD2_Multi_BrakeLights
+    3300038: MuscleCar_LOD2_Multi_Chassis
+    3300040: MuscleCar_LOD2_Multi_Headlights
+    3300042: MuscleCar_LOD2_Multi_LightCovers
+    3300044: MuscleCar_LOD2_Multi_ReverseLights
+    3300046: MuscleCar_LOD2_Multi_Wheel
+    3300048: MuscleCar_LOD3_Multi_BlinkersLeft
+    3300050: MuscleCar_LOD3_Multi_BlinkersRight
+    3300052: MuscleCar_LOD3_Multi_BrakeLights
+    3300054: MuscleCar_LOD3_Multi_Chassis
+    3300056: MuscleCar_LOD3_Multi_Headlights
+    3300058: MuscleCar_LOD3_Multi_LightCovers
+    3300060: MuscleCar_LOD3_Multi_ReverseLights
+    3300062: MuscleCar_LOD3_Multi_Wheel
+    4300000: MuscleCar_LOD3_Multi_BlinkersLeft
+    4300002: MuscleCar_LOD3_Multi_ReverseLights
+    4300004: MuscleCar_LOD3_Multi_BrakeLights
+    4300006: MuscleCar_LOD3_Multi_BlinkersRight
+    4300008: MuscleCar_LOD3_Multi_Headlights
+    4300010: MuscleCar_LOD3_Multi_LightCovers
+    4300012: MuscleCar_LOD2_Multi_BlinkersLeft
+    4300014: MuscleCar_LOD2_Multi_ReverseLights
+    4300016: MuscleCar_LOD2_Multi_BrakeLights
+    4300018: MuscleCar_LOD2_Multi_BlinkersRight
+    4300020: MuscleCar_LOD2_Multi_Headlights
+    4300022: MuscleCar_LOD2_Multi_LightCovers
+    4300024: MuscleCar_LOD1_Multi_BlinkersLeft
+    4300026: MuscleCar_LOD1_Multi_BrakeLights
+    4300028: MuscleCar_LOD1_Multi_ReverseLights
+    4300030: MuscleCar_LOD1_Multi_BlinkersRight
+    4300032: MuscleCar_LOD1_Multi_Headlights
+    4300034: MuscleCar_LOD1_Multi_LightCovers
+    4300036: MuscleCar_LOD0_Multi_BrakeLights
+    4300038: MuscleCar_LOD0_Multi_ReverseLights
+    4300040: MuscleCar_LOD0_Multi_BlinkersLeft
+    4300042: MuscleCar_LOD0_Multi_BlinkersRight
+    4300044: MuscleCar_LOD0_Multi_Headlights
+    4300046: MuscleCar_LOD0_Multi_LightCovers
+    4300048: MuscleCar_LOD0_Multi_Chassis
+    4300050: MuscleCar_LOD0_Multi_Wheel
+    4300052: MuscleCar_LOD1_Multi_Chassis
+    4300054: MuscleCar_LOD1_Multi_Wheel
+    4300056: MuscleCar_LOD2_Multi_Chassis
+    4300058: MuscleCar_LOD2_Multi_Wheel
+    4300060: MuscleCar_LOD3_Multi_Chassis
+    4300062: MuscleCar_LOD3_Multi_Wheel
+    7400000: Default Take
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 0.6
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
