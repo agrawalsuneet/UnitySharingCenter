@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: e152fbd885c60cd4d81ccb127373d24e
+timeCreated: 1507650293
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MuscleCar_LOD0_Double_Chassis
+    100004: MuscleCar_LOD0_Double_LightCovers
+    100006: MuscleCar_LOD0_Double_Wheel
+    100008: MuscleCar_LOD1_Double_Chassis
+    100010: MuscleCar_LOD1_Double_LightCovers
+    100012: MuscleCar_LOD1_Double_Wheel
+    100014: MuscleCar_LOD2_Double_Chassis
+    100016: MuscleCar_LOD2_Double_LightCovers
+    100018: MuscleCar_LOD2_Double_Wheel
+    100020: MuscleCar_LOD3_Double_Chassis
+    100022: MuscleCar_LOD3_Double_LightCovers
+    100024: MuscleCar_LOD3_Double_Wheel
+    400000: //RootNode
+    400002: MuscleCar_LOD0_Double_Chassis
+    400004: MuscleCar_LOD0_Double_LightCovers
+    400006: MuscleCar_LOD0_Double_Wheel
+    400008: MuscleCar_LOD1_Double_Chassis
+    400010: MuscleCar_LOD1_Double_LightCovers
+    400012: MuscleCar_LOD1_Double_Wheel
+    400014: MuscleCar_LOD2_Double_Chassis
+    400016: MuscleCar_LOD2_Double_LightCovers
+    400018: MuscleCar_LOD2_Double_Wheel
+    400020: MuscleCar_LOD3_Double_Chassis
+    400022: MuscleCar_LOD3_Double_LightCovers
+    400024: MuscleCar_LOD3_Double_Wheel
+    2300000: MuscleCar_LOD0_Double_Chassis
+    2300002: MuscleCar_LOD0_Double_LightCovers
+    2300004: MuscleCar_LOD0_Double_Wheel
+    2300006: MuscleCar_LOD1_Double_Chassis
+    2300008: MuscleCar_LOD1_Double_LightCovers
+    2300010: MuscleCar_LOD1_Double_Wheel
+    2300012: MuscleCar_LOD2_Double_Chassis
+    2300014: MuscleCar_LOD2_Double_LightCovers
+    2300016: MuscleCar_LOD2_Double_Wheel
+    2300018: MuscleCar_LOD3_Double_Chassis
+    2300020: MuscleCar_LOD3_Double_LightCovers
+    2300022: MuscleCar_LOD3_Double_Wheel
+    3300000: MuscleCar_LOD0_Double_Chassis
+    3300002: MuscleCar_LOD0_Double_LightCovers
+    3300004: MuscleCar_LOD0_Double_Wheel
+    3300006: MuscleCar_LOD1_Double_Chassis
+    3300008: MuscleCar_LOD1_Double_LightCovers
+    3300010: MuscleCar_LOD1_Double_Wheel
+    3300012: MuscleCar_LOD2_Double_Chassis
+    3300014: MuscleCar_LOD2_Double_LightCovers
+    3300016: MuscleCar_LOD2_Double_Wheel
+    3300018: MuscleCar_LOD3_Double_Chassis
+    3300020: MuscleCar_LOD3_Double_LightCovers
+    3300022: MuscleCar_LOD3_Double_Wheel
+    4300000: MuscleCar_LOD3_Double_Chassis
+    4300002: MuscleCar_LOD3_Double_Wheel
+    4300004: MuscleCar_LOD2_Double_Chassis
+    4300006: MuscleCar_LOD2_Double_Wheel
+    4300008: MuscleCar_LOD1_Double_Chassis
+    4300010: MuscleCar_LOD1_Double_Wheel
+    4300012: MuscleCar_LOD0_Double_Chassis
+    4300014: MuscleCar_LOD0_Double_Wheel
+    4300016: MuscleCar_LOD0_Double_LightCovers
+    4300018: MuscleCar_LOD1_Double_LightCovers
+    4300020: MuscleCar_LOD2_Double_LightCovers
+    4300022: MuscleCar_LOD3_Double_LightCovers
+    7400000: Default Take
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 0.6
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
