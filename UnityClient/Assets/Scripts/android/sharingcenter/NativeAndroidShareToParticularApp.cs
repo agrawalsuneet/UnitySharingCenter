@@ -45,7 +45,7 @@ public class NativeAndroidShareToParticularApp : MonoBehaviour {
 
 	private bool CheckIfAppInstalled () {
 
-		#if UNITY_ANDROID
+    #if UNITY_ANDROID
 
 		//create a class reference of unity player activity
 		AndroidJavaClass unityActivity = 
@@ -74,7 +74,9 @@ public class NativeAndroidShareToParticularApp : MonoBehaviour {
 
 		return false;
 
-		#endif
+    #endif
+
+		return false;
 	}
 
 	#if UNITY_ANDROID
