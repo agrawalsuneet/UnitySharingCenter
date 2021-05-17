@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SharingScene.unity
+    guid: dcc7395b2ec4e458eb13241e93d35e5a
   m_configObjects: {}
