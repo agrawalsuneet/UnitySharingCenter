@@ -6,7 +6,7 @@ public class AcceptIncomingImage : MonoBehaviour
 {
 
     public Button acceptIncomingImageBtn;
-    public Image image;
+    public RawImage rawImage;
 
     // Start is called before the first frame update
     void Start()
@@ -42,11 +42,10 @@ public class AcceptIncomingImage : MonoBehaviour
         AndroidJavaObject intent = context.Call<AndroidJavaObject>("getIntent");
 
         string type = intent.Call<string>("getType");
-
         if (type == null){
-            Debug.Log("Ballu type is null");
+            Debug.Log("UnityClientDebugging type is null");
         } else {
-            Debug.Log("Ballu type: " + type);
+            Debug.Log("UnityClientDebugging GetExtra type: " + type);
         }
 
         AndroidJavaObject parcelable = intent.Call<AndroidJavaObject>("getParcelableExtra", "android.intent.extra.STREAM");
@@ -55,21 +54,29 @@ public class AcceptIncomingImage : MonoBehaviour
 
         String uriString = uri.Call<String>("toString");
         if (uriString == null){
-            Debug.Log("Ballu uriString is null");
+            Debug.Log("UnityClientDebugging uriString is null");
         } else {
-            Debug.Log("Ballu uriString: " + uriString);
+            Debug.Log("UnityClientDebugging uriString: " + uriString);
         }
 
-        var bytes = getBytes(context, uri);
+        byte[] bytes = getBytes(context, uri);
         if (bytes == null){
-            Debug.Log("Ballu bytes is null");
+            Debug.Log("UnityClientDebugging bytes is null");
         } else {
-            Debug.Log("Ballu bytes: " + bytes);
+            Debug.Log("UnityClientDebugging bytes: " + bytes.ToString());
         }
 
         Texture2D texture = new Texture2D(1024, 1024);
         texture.LoadImage(bytes);
-        //image.
+
+        if (texture == null){
+            Debug.Log("UnityClientDebugging texture is null");
+        } else {
+            Debug.Log("UnityClientDebugging texture: " + texture.ToString());
+        }
+        rawImage.texture = texture;
+
+        Debug.Log("UnityClientDebugging end of process");
     }
 
     public AndroidJavaObject ClassForName(string className)

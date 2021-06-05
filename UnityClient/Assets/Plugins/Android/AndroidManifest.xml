@@ -9,20 +9,20 @@
         <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
       </intent-filter>
       <intent-filter>
-              <action android:name="android.intent.action.SEND" />
-              <category android:name="android.intent.category.DEFAULT" />
-              <data android:mimeType="image/*" />
-          </intent-filter>
-          <intent-filter>
-              <action android:name="android.intent.action.SEND" />
-              <category android:name="android.intent.category.DEFAULT" />
-              <data android:mimeType="text/plain" />
-          </intent-filter>
-          <intent-filter>
-              <action android:name="android.intent.action.SEND_MULTIPLE" />
-              <category android:name="android.intent.category.DEFAULT" />
-              <data android:mimeType="image/*" />
-          </intent-filter>
+          <action android:name="android.intent.action.SEND" />
+          <category android:name="android.intent.category.DEFAULT" />
+          <data android:mimeType="image/*" />
+      </intent-filter>
+      <intent-filter>
+          <action android:name="android.intent.action.SEND" />
+          <category android:name="android.intent.category.DEFAULT" />
+          <data android:mimeType="text/plain" />
+      </intent-filter>
+      <intent-filter>
+          <action android:name="android.intent.action.SEND_MULTIPLE" />
+          <category android:name="android.intent.category.DEFAULT" />
+          <data android:mimeType="image/*" />
+      </intent-filter>
       <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
     </activity>
     <meta-data android:name="unity.build-id" android:value="d23ed252-3184-42bb-8dac-d4a3f9f6b02a" />
