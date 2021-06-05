@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.40988448, g: 0.34900048, b: 0.49539232, a: 1}
+  m_IndirectSpecularColor: {r: 0.40998656, g: 0.34920064, b: 0.49513072, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -774,12 +774,22 @@ PrefabInstance:
     - target: {fileID: 205284120217856888, guid: 87b8bba2baf975d4dab92f94963185d5,
         type: 3}
       propertyPath: m_FadeMode
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 205284120217856888, guid: 87b8bba2baf975d4dab92f94963185d5,
         type: 3}
       propertyPath: m_AnimateCrossFading
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 205284120217856888, guid: 87b8bba2baf975d4dab92f94963185d5,
+        type: 3}
+      propertyPath: m_LODs.Array.data[2].screenRelativeHeight
+      value: 0.06379338
+      objectReference: {fileID: 0}
+    - target: {fileID: 205284120217856888, guid: 87b8bba2baf975d4dab92f94963185d5,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 87b8bba2baf975d4dab92f94963185d5, type: 3}
